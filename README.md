@@ -1,1 +1,2 @@
 # SQL_in_Action
+What I think makes a successful AirBnB rental in this market is the hosts that have multiple location that are available to be booked and the hosts that have the most reviews. This way, the host either has multiple options available in case one of their locations is fully booked, and/or if they have many reviews, this means that they have had a steady income of visitors at their location. 
